@@ -11,3 +11,8 @@ This repository contains useful shell scripts for bash processing.
    **Input**: vid0.txt, vid1.txt, vid2.txt, vid3.txt, vid4.txt, vid5.txt, vid6.txt<br />
    **Output**: vid0.txt, vid3.txt, vid6.txt<br />
    
+   3. [sequentially_rename_files.sh](https://github.com/BumbleBee0819/ShellScripts_Bash_Processing/blob/master/sequentially_rename_files.sh): This code will rename files to a pattern of consecutive numbers.<br />
+   For example, <br />
+   **Input**: vid1.txt, vid11.txt, vid15.txt.<br />
+   **Output**: vid1.txt, vid2.txt, vid3.txt.<br />
+   
