@@ -6,3 +6,9 @@ This repository contains useful shell scripts for bash processing.
    **Input**: vid1 copy.txt, frame copy.jpg, example copy.txt<br />
    **Output**: vid1.txt, frame.jpg, example.txt<br />
    
+   2. [delete_every_nth_file.sh]
+   (https://github.com/BumbleBee0819/ShellScripts_Bash_Processing/blob/master/delete_every_nth_file.sh): This code will delete every n-th file in a folder.<br />
+   For example,
+   **Input**: vid0.txt, vid1.txt, vid2.txt, vid3.txt, vid4.txt, vid5.txt, vid6.txt
+   **Output**: vid0.txt, vid3.txt, vid6.txt
+   
