@@ -18,4 +18,5 @@ This repository contains useful shell scripts for bash processing.
    
    4. [delete_first_n_lines.sh](https://github.com/BumbleBee0819/ShellScripts_Bash_Processing/blob/master/delete_first_n_lines.sh): This code is used to remove the first n lines of the file.<br />
    
+   5. [delete_lines_outside_a_range.sh](https://github.com/BumbleBee0819/ShellScripts_Bash_Processing/blob/master/delete_lines_outside_a_range.sh): This code will keep lines within an interval (e.g. from line 3 ~ 8) and delete the rest.<br />
    
