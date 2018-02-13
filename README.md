@@ -20,3 +20,8 @@ This repository contains useful shell scripts for bash processing.
    
    5. [delete_lines_outside_a_range.sh](https://github.com/BumbleBee0819/ShellScripts_Bash_Processing/blob/master/delete_lines_outside_a_range.sh): This code will keep lines within an interval (e.g. from line 3 ~ 8) and delete the rest.<br />
    6. [remove_first_column.sh](https://github.com/BumbleBee0819/ShellScripts_Bash_Processing/blob/master/remove_first_column.sh): This code will remove the first column of a file.<br />
+   7. [Insert_lines.sh](https://github.com/BumbleBee0819/ShellScripts_Bash_Processing/blob/master/Insert_lines.sh): This code will insert a line in a file starting from a specific line number.<br />
+   
+   
+   
+   
