@@ -26,14 +26,14 @@ This repository contains useful shell scripts for bash processing.
    For example, delete first 2 lines. <br />
    
    **Input**:  <pre><code>
-               1<br />
-               2<br />
-               3<br />
-               4<br /> 
+                  1<br />
+                  2<br />
+                  3<br />
+                  4<br /> 
                </code></pre>
    **Output**: <pre><code>
-               3<br />
-               4<br />
+                  3<br />
+                  4<br />
                </code></pre>
 
    5. [delete_lines_outside_a_range.sh](https://github.com/BumbleBee0819/ShellScripts_Bash_Processing/blob/master/delete_lines_outside_a_range.sh): This code will keep lines within an interval (e.g. from line 3 ~ 8) and delete the rest.<br />
