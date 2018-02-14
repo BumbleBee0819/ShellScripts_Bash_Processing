@@ -64,8 +64,7 @@ This repository contains useful shell scripts for bash processing.
    **Input**: <br />
               File1: <line> 1 2 3 4 5 6 <br />
               File2: <line> 1 2 3 4 5 6 <br />
-   
-  **Output**: <br />
+   **Output**: <br />
               File1: <line> 6 3 1 4 5 2 <br />
               File2: <line> 6 3 1 4 5 2 <br />   
    
