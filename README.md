@@ -10,8 +10,10 @@ This repository contains useful shell scripts for bash processing.
    
    2. [delete_every_nth_file.sh](https://github.com/BumbleBee0819/ShellScripts_Bash_Processing/blob/master/delete_every_nth_file.sh): This code will delete every n-th file in a folder.<br />
    For example,<br />
-   **Input**: vid0.txt, vid1.txt, vid2.txt, vid3.txt, vid4.txt, vid5.txt, vid6.txt<br />
-   **Output**: vid0.txt, vid3.txt, vid6.txt<br />
+   <pre><code>
+   <b>Input:</b>  vid0.txt, vid1.txt, vid2.txt, vid3.txt, vid4.txt, vid5.txt, vid6.txt<br />
+   <b>Output:</b> vid0.txt,                     vid3.txt,                     vid6.txt<br />
+   </code></pre>
    
    3. [sequentially_rename_files.sh](https://github.com/BumbleBee0819/ShellScripts_Bash_Processing/blob/master/sequentially_rename_files.sh): This code will rename files to a pattern of consecutive numbers.<br />
    For example, <br />
