@@ -74,7 +74,7 @@ This repository contains useful shell scripts for bash processing.
                
 8. [randomly_shuffle_files_the_same_way.sh](https://github.com/BumbleBee0819/ShellScripts_Bash_Processing/blob/master/randomly_shuffle_files_the_same_way.sh): This code will randomly shuffle multiple files the same way.<br />
    
-   *For example, <br />*
+   *For example, if there are two files:<br />*
    **Input**: <pre><code>
               File1: <line> 1 2 3 4 5 6 <br />
               File2: <line> 1 2 3 4 5 6 <br />
