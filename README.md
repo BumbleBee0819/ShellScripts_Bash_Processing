@@ -20,6 +20,7 @@ This repository contains useful shell scripts for bash processing.
    <pre><code>
    <b>Input:</b>  vid1.txt, vid11.txt, vid15.txt.<br />
    <b>Output:</b> vid1.txt, vid2.txt,  vid3.txt.<br />
+   </code></pre>
    
    4. [delete_first_n_lines.sh](https://github.com/BumbleBee0819/ShellScripts_Bash_Processing/blob/master/delete_first_n_lines.sh): This code is used to remove the first n lines of the file.<br />
    For example, delete first 2 lines. <br />
