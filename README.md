@@ -38,6 +38,7 @@ This repository contains useful shell scripts for bash processing.
                </code></pre>
 
 5. [delete_lines_outside_a_range.sh](https://github.com/BumbleBee0819/ShellScripts_Bash_Processing/blob/master/delete_lines_outside_a_range.sh): This code keeps lines within an interval (e.g. from line 3 ~ 8) and delete the rest.<br />
+  
   *For example, keep line 2-3, delete the rest. <br />*
   **Input**: <pre><code>1<br />
               2<br />
@@ -49,6 +50,7 @@ This repository contains useful shell scripts for bash processing.
                </code></pre>
                
 6. [remove_first_column.sh](https://github.com/BumbleBee0819/ShellScripts_Bash_Processing/blob/master/remove_first_column.sh): This code will remove the first column of a file.<br />
+  
   *For example, <br />* 
   **Input**: <pre><code>1 a 11<br />
               2 b 12<br />
@@ -60,6 +62,7 @@ This repository contains useful shell scripts for bash processing.
                </code></pre>
                
 7. [Insert_lines.sh](https://github.com/BumbleBee0819/ShellScripts_Bash_Processing/blob/master/Insert_lines.sh): This code will insert a line in a file starting from a specific line number.<br />
+   
    *For example, insert "Beginning" to the top of a file. <br />*
    **Input**: <pre><code>1<br />
               2<br />
@@ -70,6 +73,7 @@ This repository contains useful shell scripts for bash processing.
                </code></pre>
                
 8. [randomly_shuffle_files_the_same_way.sh](https://github.com/BumbleBee0819/ShellScripts_Bash_Processing/blob/master/randomly_shuffle_files_the_same_way.sh): This code will randomly shuffle multiple files the same way.<br />
+   
    *For example, <br />*
    **Input**: <pre><code>
               File1: <line> 1 2 3 4 5 6 <br />
