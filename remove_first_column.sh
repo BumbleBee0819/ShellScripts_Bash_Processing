@@ -1,5 +1,8 @@
 #!/bin/sh
-# written by wwenyan bi on Jan 31, 2018
+# This code will remove the first column.
+
+# Written by Wenyan Bi on Jan 31th, 2018.
+
 
 for i in OpaqueThickCotton*; do
 	# remove first column
