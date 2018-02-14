@@ -84,7 +84,7 @@ This repository contains useful shell scripts for bash processing.
    
 8. [extract%26swap_lines.sh](https://github.com/BumbleBee0819/ShellScripts_Bash_Processing/blob/master/extract%26swap_lines.sh): This code can 1) extract specified lines from a file; 2) swap lines.<br />
    
-   *For example, swap line 1-2 and 3-4<br />*
+   *For example, swap line 1-2 and 3-4:<br />*
    **Input**: <pre><code>1 <br />
               2<br />
               3<br />
