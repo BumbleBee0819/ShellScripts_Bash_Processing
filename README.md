@@ -17,11 +17,13 @@ This repository contains useful shell scripts for bash processing.
    
    3. [sequentially_rename_files.sh](https://github.com/BumbleBee0819/ShellScripts_Bash_Processing/blob/master/sequentially_rename_files.sh): This code will rename files to a pattern of consecutive numbers.<br />
    For example, <br />
-   **Input**: vid1.txt, vid11.txt, vid15.txt.<br />
-   **Output**: vid1.txt, vid2.txt, vid3.txt.<br />
+   <pre><code>
+   <b>Input:</b>  vid1.txt, vid11.txt, vid15.txt.<br />
+   <b>Output:</b> vid1.txt, vid2.txt,  vid3.txt.<br />
    
    4. [delete_first_n_lines.sh](https://github.com/BumbleBee0819/ShellScripts_Bash_Processing/blob/master/delete_first_n_lines.sh): This code is used to remove the first n lines of the file.<br />
    For example, delete first 2 lines. <br />
+   
    **Input**:  <pre><code>1<br />
                2<br />
                3<br />
