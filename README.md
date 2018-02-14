@@ -34,7 +34,7 @@ This repository contains useful shell scripts for bash processing.
                   4<br />
                </code></pre>
 
-   5. [delete_lines_outside_a_range.sh](https://github.com/BumbleBee0819/ShellScripts_Bash_Processing/blob/master/delete_lines_outside_a_range.sh): This code will keep lines within an interval (e.g. from line 3 ~ 8) and delete the rest.<br />
+   5. [delete_lines_outside_a_range.sh](https://github.com/BumbleBee0819/ShellScripts_Bash_Processing/blob/master/delete_lines_outside_a_range.sh): This code keeps lines within an interval (e.g. from line 3 ~ 8) and delete the rest.<br />
    For example, keep line 2-3, delete the rest. <br />
    
    **Input**: <pre><code>1<br />
@@ -47,14 +47,15 @@ This repository contains useful shell scripts for bash processing.
                
    6. [remove_first_column.sh](https://github.com/BumbleBee0819/ShellScripts_Bash_Processing/blob/master/remove_first_column.sh): This code will remove the first column of a file.<br />
   For example, <br />
-  **Input**: <br />
-              1 a 11<br />
+  
+  **Input**: <pre><code>1 a 11<br />
               2 b 12<br />
               3 c 13<br />
-   **Output**: <br />
-               a 11<br />
+              </code></pre>
+   **Output**: <pre><code>a 11<br />
                b 12<br />
                c 13<br />
+               </code></pre>
                
    7. [Insert_lines.sh](https://github.com/BumbleBee0819/ShellScripts_Bash_Processing/blob/master/Insert_lines.sh): This code will insert a line in a file starting from a specific line number.<br />
    For example, insert "Beginning" to the top of a file. <br />
