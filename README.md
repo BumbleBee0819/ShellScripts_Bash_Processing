@@ -38,9 +38,8 @@ This repository contains useful shell scripts for bash processing.
                </code></pre>
 
 5. [delete_lines_outside_a_range.sh](https://github.com/BumbleBee0819/ShellScripts_Bash_Processing/blob/master/delete_lines_outside_a_range.sh): This code keeps lines within an interval (e.g. from line 3 ~ 8) and delete the rest.<br />
-  
   *For example, keep line 2-3, delete the rest. <br />*
-   **Input**: <pre><code>1<br />
+  **Input**: <pre><code>1<br />
               2<br />
               3<br />
               4<br />
