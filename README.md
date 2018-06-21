@@ -96,7 +96,7 @@ This repository contains useful shell scripts for bash processing.
               2<br />
               </code></pre>
               
-10.[ChangeContents.sh](https://github.com/BumbleBee0819/ShellScripts_Bash_Processing/blob/master/ChangeContents.sh): This code works the same as "Replace All" in Microsoft Word.
+10.[ReplaceAll.sh](https://github.com/BumbleBee0819/ShellScripts_Bash_Processing/blob/master/ChangeContents.sh): This code works the same as "Replace All" in Microsoft Word.
 
               
               
