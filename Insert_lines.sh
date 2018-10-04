@@ -5,9 +5,8 @@
 for file in OpaqueThickCotton*; do
   # a\: will insert after the first line 
   # i\: will insert before the first line
-	sed "1 i\
-  # contents to be inserted
-	111
-	" <"$file">"$file.tmp"
+	sed '1 i\
+	Contents to be inserted
+	' $file > $file.tmp
 	mv "$file.tmp" "$file"
 done
