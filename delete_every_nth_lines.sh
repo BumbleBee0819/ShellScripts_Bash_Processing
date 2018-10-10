@@ -4,7 +4,7 @@
 
 
 for file in a*; do
-	sed '1,3d' $file > $file.tmp
+	awk 'NR%3' $file > $file.tmp
 	mv "$file.tmp" "$file"
 done
 
